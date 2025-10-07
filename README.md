@@ -40,7 +40,7 @@ const chandraKishor = {
     pronouns: "He" | "Him",
     role: "Educator & Full Stack Developer",
     location: "India 🇮🇳",
-    education: "B.Tech Graduate",
+    education: "computer science Graduate",
     experience: {
         teaching: "6+ Years",
         students: "300+",
