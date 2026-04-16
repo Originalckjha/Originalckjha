@@ -37,10 +37,10 @@
 
 ```javascript
 const chandraKishor = {
-    pronouns: "He" | "Him",
+    pronouns: ["He", "Him"],
     role: "Educator & Full Stack Developer",
     location: "India 🇮🇳",
-    education: "computer science Graduate",
+    education: "Computer Science Graduate",
     experience: {
         teaching: "6+ Years",
         students: "300+",
@@ -65,26 +65,25 @@ const chandraKishor = {
 ### 🎓 Teaching Excellence
 
 ```yaml
-📚 Experience: 6+ Years
-👨‍🎓 Students Taught: 300+
-🌍 Mode: Online & Offline
-💡 Success Rate: 95%+
-🏆 Student Placements: 100+
-⭐ Average Rating: 4.8/5
+Experience:          6+ Years
+Students Taught:     300+
+Mode:                Online & Offline
+Success Rate:        95%+
+Student Placements:  100+
+Average Rating:      4.8/5
 ```
 
 </td>
 <td width="50%">
 
-### 💻 Development Skills
+### 💻 Development
 
 ```yaml
-🚀 Projects Built: 10+
-⚡ Response Time: 24 hours
-🎨 Specialization: Full Stack
-🔧 Tech Stack: MERN
-📱 Responsive: Always
-☁️ Deployment: Vercel/Netlify
+Projects Built:    10+
+Response Time:     24 hours
+Specialization:    Full Stack
+Tech Stack:        MERN
+Deployment:        Vercel / Netlify
 ```
 
 </td>
@@ -93,12 +92,12 @@ const chandraKishor = {
 <tr>
 <td width="50%">
 
-### 📊 Impact Metrics
+### 📊 Impact
 
 ```yaml
 ✅ 500+ Hours of Live Sessions
 ✅ 1000+ Doubts Resolved
-✅ 50+ Code Reviews
+✅ 50+ Code Reviews Conducted
 ✅ 20+ Webinars Conducted
 ✅ 10+ Open Source Contributions
 ```
@@ -122,11 +121,11 @@ const chandraKishor = {
 
 -----
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### 🎨 Frontend Magic
+### 🖥️ Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -141,7 +140,7 @@ const chandraKishor = {
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 </p>
 
-### ⚙️ Backend Power
+### ⚙️ Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -170,7 +169,7 @@ const chandraKishor = {
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### 🌟 Other Skills
+### 🔧 Additional Technologies
 
 <p>
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
@@ -213,9 +212,9 @@ const chandraKishor = {
 
 [![Weak to Strong](https://github-readme-stats.vercel.app/api/pin/?username=Originalckjha&repo=weaktostrong&theme=tokyonight&hide_border=true)](https://weaktostrong-git-main-chandra-kishor-jha-s-projects.vercel.app)
 
-### 🚀 [Weak to Strong - Learning Platform](https://weaktostrong-git-main-chandra-kishor-jha-s-projects.vercel.app)
+### 🚀 [Weak to Strong — Learning Platform](https://weaktostrong-git-main-chandra-kishor-jha-s-projects.vercel.app)
 
-**Your journey from beginner to expert developer starts here!**
+**Your journey from beginner to expert developer starts here.**
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -232,13 +231,13 @@ const chandraKishor = {
 
 [![Blog](https://img.shields.io/badge/The_Learnex-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://thelearnex.blogspot.com/?m=1)
 
-**Writing about:** Web Development • JavaScript • React • Career Tips • Coding Tutorials
+**Writing about:** Web Development &bull; JavaScript &bull; React &bull; Career Tips &bull; Coding Tutorials
 
 </div>
 
 -----
 
-## 💼 Services I Offer
+## 💼 Services
 
 <table align="center">
 <tr>
@@ -267,38 +266,18 @@ const chandraKishor = {
 
 -----
 
-## 📫 Let’s Connect
+## 📫 Get In Touch
 
 <div align="center">
 
-### 🤝 Work With Me
-
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfN6vvvE600Utgi0w2_d_idpaOrTXy1MQdaWYMi22HzvtCvKg/viewform?usp=header">
-  <img src="https://img.shields.io/badge/💼_HIRE_ME-Available_for_Work-success?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hire_Me-Available_for_Work-success?style=for-the-badge&logoColor=white" />
 </a>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYDhe9BZB__bMvXxHY_EI6MCdnS63lhtoVHhttZjUfPgAR1Q/viewform?usp=header">
-  <img src="https://img.shields.io/badge/⭐_RATE_MY_WEBSITE-Give_Feedback-blue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Give_Feedback-Rate_My_Work-blue?style=for-the-badge&logoColor=white" />
 </a>
 <a href="https://docs.google.com/document/d/1cuhmuK3Mf4hjs4V6wnAF7zL-Id-19SuaqhaI0O9OYcY/edit?usp=drivesdk">
-  <img src="https://img.shields.io/badge/📄_VIEW_RESUME-Download_PDF-orange?style=for-the-badge&logoColor=white" />
-</a>
-
-### 🌐 Social Media
-
-<a href="https://www.linkedin.com/in/chandra-kishor-jha-276744184">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/originalckjha">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:ckworkss@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://thelearnex.blogspot.com/?m=1">
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-</a>
-<a href="https://linktr.ee/Ckjhaa">
-  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Resume-Download_PDF-orange?style=for-the-badge&logoColor=white" />
 </a>
 
 </div>
@@ -307,11 +286,7 @@ const chandraKishor = {
 
 <div align="center">
 
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
+### 🐍 Contribution Activity
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
@@ -324,5 +299,5 @@ const chandraKishor = {
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing!+%F0%9F%9A%80;Star+%E2%AD%90+my+repos+if+you+like+them!;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let%27s+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
