@@ -1,6 +1,8 @@
-# Chandra Kishor Jha
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Chandra+Kishor+Jha" alt="Chandra Kishor Jha" />
+</p>
 
-**Full Stack Developer · Educator · Mentor** — India
+<p align="center"><strong>Full Stack Developer · Educator · Mentor</strong> — India</p>
 
 I build web applications and teach programming. With 6+ years of teaching experience, I've mentored 300+ students through online and offline courses, helping 100+ land their first developer roles. My primary stack is MERN (MongoDB, Express, React, Node.js).
 
@@ -55,4 +57,10 @@ I build web applications and teach programming. With 6+ years of teaching experi
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Originalckjha&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution activity" />
 </p>
