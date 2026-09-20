@@ -32,12 +32,12 @@
 ## About Me
 
 ```text
- Full Stack Developer with a passion for building scalable web applications
- 6+ years of teaching experience | 300+ students mentored | 100+ job placements
+ with a passion for building scalable web applications
+ 6+ years of teaching experience | 300+ students mentored |
  Primary Stack: MERN (MongoDB · Express · React · Node.js)
- Currently building: Weak to Strong — a structured dev learning platform
- Available for freelance, consulting & 1-on-1 mentorship
- Based in India
+ Currently building:myself
+ Available for freelance,
+
 ```
 
 ---
