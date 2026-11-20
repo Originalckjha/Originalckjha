@@ -20,9 +20,9 @@ Most of what I build sits where those two worlds meet: software for teachers, co
 
 Every project here is live. Click a screenshot to try it.
 
-<a href="https://cbse-educator-dashboard-mvp.vercel.app"><img align="right" width="44%" src="./assets/edudesk.jpg" alt="EduDesk dashboard with notes, classes, resources and a weekly activity chart" /></a>
-
 ### EduDesk
+
+<a href="https://cbse-educator-dashboard-mvp.vercel.app"><img align="right" width="44%" src="./assets/edudesk.jpg" alt="EduDesk dashboard with notes, classes, resources and a weekly activity chart" /></a>
 
 A dashboard where CBSE teachers keep their notes, classes and teaching resources in one place, with a weekly activity chart. It has a one-click demo account, so you can look around without signing up.
 
@@ -32,9 +32,9 @@ A dashboard where CBSE teachers keep their notes, classes and teaching resources
 
 <br clear="right" />
 
-<a href="https://codearcade-git-hub-account-scorecar.vercel.app"><img align="right" width="44%" src="./assets/talentscore-pro.jpg" alt="TalentScore Pro candidate report with an overall score and a score breakdown" /></a>
-
 ### TalentScore Pro
+
+<a href="https://codearcade-git-hub-account-scorecar.vercel.app"><img align="right" width="44%" src="./assets/talentscore-pro.jpg" alt="TalentScore Pro candidate report with an overall score and a score breakdown" /></a>
 
 A candidate scoring tool for hiring teams. It scores IT, warehouse, sales and marketing candidates on five weighted dimensions and gives a clear hiring recommendation. The IT track reads live data from the GitHub API.
 
@@ -44,9 +44,9 @@ A candidate scoring tool for hiring teams. It scores IT, warehouse, sales and ma
 
 <br clear="right" />
 
-<a href="https://biomatricupdate.vercel.app"><img align="right" width="44%" src="./assets/biometric-live.jpg" alt="Biometric Live setup screen for connecting a ZKTeco attendance device" /></a>
-
 ### Biometric Live
+
+<a href="https://biomatricupdate.vercel.app"><img align="right" width="44%" src="./assets/biometric-live.jpg" alt="Biometric Live setup screen for connecting a ZKTeco attendance device" /></a>
 
 A live attendance board for ZKTeco biometric devices. The device pushes each check-in to the app, which shows who is in and who is out as it happens. A four-step wizard walks you through the setup.
 
@@ -56,9 +56,9 @@ A live attendance board for ZKTeco biometric devices. The device pushes each che
 
 <br clear="right" />
 
-<a href="https://100-g-protien-club-frontend.vercel.app"><img align="right" width="44%" src="./assets/protein-club.jpg" alt="100G Protein Club community feed with club stats and trending topics" /></a>
-
 ### 100G Protein Club
+
+<a href="https://100-g-protien-club-frontend.vercel.app"><img align="right" width="44%" src="./assets/protein-club.jpg" alt="100G Protein Club community feed with club stats and trending topics" /></a>
 
 A community app where fitness enthusiasts share high-protein recipes, tips and transformations. The React front end talks to an Express API with JWT sign-in.
 
@@ -68,9 +68,9 @@ A community app where fitness enthusiasts share high-protein recipes, tips and t
 
 <br clear="right" />
 
-<a href="https://curiousminds-eight.vercel.app"><img align="right" width="44%" src="./assets/curious-minds.jpg" alt="Curious Minds institute home page with its three departments" /></a>
-
 ### Curious Minds
+
+<a href="https://curiousminds-eight.vercel.app"><img align="right" width="44%" src="./assets/curious-minds.jpg" alt="Curious Minds institute home page with its three departments" /></a>
 
 A coaching institute website with three departments, separate logins for students and teachers, and a searchable library of free study material.
 
@@ -80,9 +80,9 @@ A coaching institute website with three departments, separate logins for student
 
 <br clear="right" />
 
-<a href="https://durgamandir-mjks.vercel.app"><img align="right" width="44%" src="./assets/durga-mandir.jpg" alt="Mithila Durga Mandir home page decorated with Mithila art motifs" /></a>
-
 ### Mithila Durga Mandir
+
+<a href="https://durgamandir-mjks.vercel.app"><img align="right" width="44%" src="./assets/durga-mandir.jpg" alt="Mithila Durga Mandir home page decorated with Mithila art motifs" /></a>
 
 A website for a temple and its community trust, founded in 1945, with puja timings, festivals, a gallery and a Maithili section, decorated with Mithila art motifs. I built it to give back to my community.
 
