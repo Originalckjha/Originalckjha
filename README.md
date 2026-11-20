@@ -28,7 +28,7 @@ A dashboard where CBSE teachers keep their notes, classes and teaching resources
 
 <sub>React · TypeScript · Redux Toolkit · Tailwind CSS · Recharts</sub>
 
-**[Live demo](https://cbse-educator-dashboard-mvp.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/CBSE-EDUCATOR-DASHBOARD-MVP-)
+**[Live demo](https://cbse-educator-dashboard-mvp.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/edudesk)
 
 <br clear="right" />
 
@@ -40,7 +40,7 @@ A candidate scoring tool for hiring teams. It scores IT, warehouse, sales and ma
 
 <sub>JavaScript · Chart.js · GitHub REST API</sub>
 
-**[Live demo](https://codearcade-git-hub-account-scorecar.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/Codearcade-GitHub.account.scorecard)
+**[Live demo](https://codearcade-git-hub-account-scorecar.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/talentscore-pro)
 
 <br clear="right" />
 
@@ -52,7 +52,7 @@ A live attendance board for ZKTeco biometric devices. The device pushes each che
 
 <sub>Next.js · TypeScript · Tailwind CSS</sub>
 
-**[Live demo](https://biomatricupdate.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/Biomatricupdate)
+**[Live demo](https://biomatricupdate.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/biometric-live)
 
 <br clear="right" />
 
@@ -64,7 +64,7 @@ A community app where fitness enthusiasts share high-protein recipes, tips and t
 
 <sub>React · TypeScript · Tailwind CSS · Express · JWT</sub>
 
-**[Live demo](https://100-g-protien-club-frontend.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/100G-PROTIEN-CLUB)
+**[Live demo](https://100-g-protien-club-frontend.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/100g-protein-club)
 
 <br clear="right" />
 
@@ -76,7 +76,7 @@ A coaching institute website with three departments, separate logins for student
 
 <sub>React · TypeScript · Vite · Tailwind CSS</sub>
 
-**[Live demo](https://curiousminds-eight.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/CURIOUSMINDS)
+**[Live demo](https://curiousminds-eight.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/curious-minds)
 
 <br clear="right" />
 
@@ -88,14 +88,14 @@ A website for a temple and its community trust, founded in 1945, with puja timin
 
 <sub>TypeScript · Vite · SVG</sub>
 
-**[Live site](https://durgamandir-mjks.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/DURGAMANDIR-MJKS-)
+**[Live site](https://durgamandir-mjks.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/mithila-durga-mandir)
 
 <br clear="right" />
 
 ### More work
 
 - **[TradeFabric](https://github.com/Originalckjha/Tradefabric)**: a marketing site for a Delhi fabric supplier, built for search with a sitemap, structured data and Open Graph images. Next.js. ([live](https://tradefabric.vercel.app))
-- **[Curiosity Coaching Center](https://github.com/Originalckjha/Curiositycoachingcenter)**: a landing page for a coaching centre in Mangolpuri, Delhi. ([live](https://curiositycoachingcenter.vercel.app))
+- **[Curiosity Coaching Center](https://github.com/Originalckjha/curiosity-coaching-center)**: a landing page for a coaching centre in Mangolpuri, Delhi. ([live](https://curiositycoachingcenter.vercel.app))
 - **[WeakToStrong](https://github.com/Originalckjha/Weaktostrong)**: my first website, built in 8 hours straight. ([live](https://weaktostrong.vercel.app))
 - **[ckworks](https://github.com/Originalckjha/Ckworks.xyz)**: my portfolio, written in plain TypeScript with no framework. ([live](https://ckworks-xyz.vercel.app))
 
