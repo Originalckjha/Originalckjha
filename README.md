@@ -1,162 +1,142 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:3178C6&height=200&section=header&text=Chandra%20Kishor%20Jha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Educator%20%7C%20Mentor&descAlignY=60&descSize=20" />
-</div>
+<a href="https://ckworks-xyz.vercel.app">
+  <img src="./assets/banner.png" width="100%" alt="CK Jha (Chandra Kishor Jha), software engineer and educator. Build. Ship. Teach." />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chandra-kishor-jha-276744184">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/originalckjha">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-  <a href="mailto:ckworkss@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://ckworks.xyz">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://thelearnex.blogspot.com/?m=1">
-    <img src="https://img.shields.io/badge/Blog-%23FF6B35.svg?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
-</p>
+## Hi, I'm CK 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Originalckjha&label=Profile+Views&color=58A6FF&style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20To%20Work-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mentored-300%2B%20Students-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Placed-100%2B%20Developers-blue?style=flat-square" />
-</p>
+I'm a software engineer at **Trade Fabric** in Delhi. I build full-stack web apps with TypeScript, React, Next.js and Node.js, and I've been teaching computer science and maths since 2018, to 300+ students so far.
 
----
+Most of what I build sits where those two worlds meet: software for teachers, coaching institutes and small businesses that need things to simply work.
 
-## About Me
+**[Portfolio](https://ckworks-xyz.vercel.app)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/chandra-kishor-jha-276744184) &nbsp;·&nbsp; [X](https://x.com/originalckjha) &nbsp;·&nbsp; [Blog](https://thelearnex.blogspot.com) &nbsp;·&nbsp; [ckworkss@gmail.com](mailto:ckworkss@gmail.com)
 
-```text
- with a passion for building scalable web applications
- 6+ years of teaching experience | 300+ students mentored |
- Primary Stack: MERN (MongoDB · Express · React · Node.js)
- Currently building:myself
- Available for freelance,
+### Right now
 
-```
+- 🛠️ **Building** production systems at Trade Fabric, where I've been a software engineer since April 2026.
+- 🎓 **Teaching** CBSE/ICSE computer science, maths, Python and web development, from Class 6 to college.
+- 🤝 **Open to** freelance web projects. [Tell me about yours →](https://docs.google.com/forms/d/e/1FAIpQLSfN6vvvE600Utgi0w2_d_idpaOrTXy1MQdaWYMi22HzvtCvKg/viewform)
 
----
+## Things I've built
 
-## Tech Stack
+Every project here is live. Click a screenshot to try it.
 
-**Frontend**
+<a href="https://cbse-educator-dashboard-mvp.vercel.app"><img align="right" width="44%" src="./assets/edudesk.jpg" alt="EduDesk dashboard with notes, classes, resources and a weekly activity chart" /></a>
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
+### EduDesk
 
-**Backend**
+A dashboard where CBSE teachers keep their notes, classes and teaching resources in one place, with a weekly activity chart. It has a one-click demo account, so you can look around without signing up.
 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<sub>React · TypeScript · Redux Toolkit · Tailwind CSS · Recharts</sub>
 
-**Databases**
+**[Live demo](https://cbse-educator-dashboard-mvp.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/CBSE-EDUCATOR-DASHBOARD-MVP-)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
+<br clear="right" />
 
-**Tools & Platforms**
+<a href="https://codearcade-git-hub-account-scorecar.vercel.app"><img align="right" width="44%" src="./assets/talentscore-pro.jpg" alt="TalentScore Pro candidate report with an overall score and a score breakdown" /></a>
 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat-square&logo=netlify&logoColor=white)
+### TalentScore Pro
 
----
+A candidate scoring tool for hiring teams. It scores IT, warehouse, sales and marketing candidates on five weighted dimensions and gives a clear hiring recommendation. The IT track reads live data from the GitHub API.
 
-## GitHub Stats
+<sub>JavaScript · Chart.js · GitHub REST API</sub>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Originalckjha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Originalckjha&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Originalckjha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+**[Live demo](https://codearcade-git-hub-account-scorecar.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/Codearcade-GitHub.account.scorecard)
 
----
+<br clear="right" />
 
-## GitHub Trophies
+<a href="https://biomatricupdate.vercel.app"><img align="right" width="44%" src="./assets/biometric-live.jpg" alt="Biometric Live setup screen for connecting a ZKTeco attendance device" /></a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Originalckjha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</p>
+### Biometric Live
 
----
+A live attendance board for ZKTeco biometric devices. The device pushes each check-in to the app, which shows who is in and who is out as it happens. A four-step wizard walks you through the setup.
 
-## Featured Project
+<sub>Next.js · TypeScript · Tailwind CSS</sub>
 
-<p align="center">
-  <a href="https://github.com/Originalckjha/weaktostrong">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Originalckjha&repo=weaktostrong&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+**[Live demo](https://biomatricupdate.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/Biomatricupdate)
 
-> **[Live Demo](https://weaktostrong-git-main-chandra-kishor-jha-s-projects.vercel.app)** — A structured learning platform built with Next.js & Tailwind CSS, designed to take developers from beginner to job-ready.
+<br clear="right" />
 
----
+<a href="https://100-g-protien-club-frontend.vercel.app"><img align="right" width="44%" src="./assets/protein-club.jpg" alt="100G Protein Club community feed with club stats and trending topics" /></a>
 
-## Let's Connect
+### 100G Protein Club
 
-<table align="center">
-  <tr>
-    <td>Email</td>
-    <td><a href="mailto:ckworkss@gmail.com">ckworkss@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td>LinkedIn</td>
-    <td><a href="https://www.linkedin.com/in/chandra-kishor-jha-276744184">chandra-kishor-jha</a></td>
-  </tr>
-  <tr>
-    <td>Twitter / X</td>
-    <td><a href="https://x.com/originalckjha">@originalckjha</a></td>
-  </tr>
-  <tr>
-    <td>Blog</td>
-    <td><a href="https://thelearnex.blogspot.com/?m=1">The Learnex</a></td>
-  </tr>
-  <tr>
-    <td>Portfolio</td>
-    <td><a href="https://ckworks.xyz">ckworks.xyz</a></td>
-  </tr>
-  <tr>
-    <td>Resume</td>
-    <td><a href="https://docs.google.com/document/d/1cuhmuK3Mf4hjs4V6wnAF7zL-Id-19SuaqhaI0O9OYcY/edit?usp=drivesdk">View PDF</a></td>
-  </tr>
-  <tr>
-    <td>Hire Me</td>
-    <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfN6vvvE600Utgi0w2_d_idpaOrTXy1MQdaWYMi22HzvtCvKg/viewform?usp=header">Availability Form</a></td>
-  </tr>
-</table>
+A community app where fitness enthusiasts share high-protein recipes, tips and transformations. The React front end talks to an Express API with JWT sign-in.
 
----
+<sub>React · TypeScript · Tailwind CSS · Express · JWT</sub>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</p>
+**[Live demo](https://100-g-protien-club-frontend.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/100G-PROTIEN-CLUB)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:58A6FF&height=100&section=footer" />
-</div>
+<br clear="right" />
+
+<a href="https://curiousminds-eight.vercel.app"><img align="right" width="44%" src="./assets/curious-minds.jpg" alt="Curious Minds institute home page with its three departments" /></a>
+
+### Curious Minds
+
+A coaching institute website with three departments, separate logins for students and teachers, and a searchable library of free study material.
+
+<sub>React · TypeScript · Vite · Tailwind CSS</sub>
+
+**[Live demo](https://curiousminds-eight.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/CURIOUSMINDS)
+
+<br clear="right" />
+
+<a href="https://durgamandir-mjks.vercel.app"><img align="right" width="44%" src="./assets/durga-mandir.jpg" alt="Mithila Durga Mandir home page decorated with Mithila art motifs" /></a>
+
+### Mithila Durga Mandir
+
+A website for a temple and its community trust, founded in 1945, with puja timings, festivals, a gallery and a Maithili section, decorated with Mithila art motifs. I built it to give back to my community.
+
+<sub>TypeScript · Vite · SVG</sub>
+
+**[Live site](https://durgamandir-mjks.vercel.app)** &nbsp;·&nbsp; [Code](https://github.com/Originalckjha/DURGAMANDIR-MJKS-)
+
+<br clear="right" />
+
+### More work
+
+- **[TradeFabric](https://github.com/Originalckjha/Tradefabric)**: a marketing site for a Delhi fabric supplier, built for search with a sitemap, structured data and Open Graph images. Next.js. ([live](https://tradefabric.vercel.app))
+- **[Curiosity Coaching Center](https://github.com/Originalckjha/Curiositycoachingcenter)**: a landing page for a coaching centre in Mangolpuri, Delhi. ([live](https://curiositycoachingcenter.vercel.app))
+- **[WeakToStrong](https://github.com/Originalckjha/Weaktostrong)**: my first website, built in 8 hours straight. ([live](https://weaktostrong.vercel.app))
+- **[ckworks](https://github.com/Originalckjha/Ckworks.xyz)**: my portfolio, written in plain TypeScript with no framework. ([live](https://ckworks-xyz.vercel.app))
+
+## Tools I use
+
+**Languages**&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+
+**Frontend**&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-3A3A3A?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend**&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-3A3A3A?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools**&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-3A3A3A?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-3A3A3A?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![esbuild](https://img.shields.io/badge/esbuild-FFCF00?style=flat-square&logo=esbuild&logoColor=black)
+
+## Teaching
+
+I started as a private tutor in 2018, spent three years teaching computer science and maths to Class 10–12 students at a coaching institute, and have mentored college students one-on-one along the way.
+
+**What I teach:** Computer Science (CBSE/ICSE, Class 10–12) · Mathematics (Class 6–12) · Python and DSA basics · Web development · System design for junior developers
+
+## Get in touch
+
+Need a website, a dashboard or an internal tool built? Or a tutor for computer science or maths? Fill in the [project form](https://docs.google.com/forms/d/e/1FAIpQLSfN6vvvE600Utgi0w2_d_idpaOrTXy1MQdaWYMi22HzvtCvKg/viewform), email [ckworkss@gmail.com](mailto:ckworkss@gmail.com), or message me on [LinkedIn](https://www.linkedin.com/in/chandra-kishor-jha-276744184).
+
+<p align="center"><sub><i>Dharma · Tapasya · Satya · Jigyasa</i><br />Purpose over hype. Deep focus. Honest code. Lifelong learning.</sub></p>
